@@ -1,6 +1,7 @@
 #Face Detection Attendance System
 <br/>
-###About: <br/>
+###About: 
+<br/>
 This project is a model of Basic Machine Learning. <br/>
 It uses face detection system to recognise the faces and mark their attendance accordingly.<br/>
 Firstly, we train the system with some faces by storing them in a folder and passing the folder path to the system. After training is done, then it is ready to detect the faces and mark their attendance.<br/>
